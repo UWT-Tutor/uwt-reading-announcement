@@ -31,14 +31,14 @@ export default function Home() {
             >
               passionate English educators
             </Link>{" "}
-            with a shared commitment to enriching our students' understanding of
+            with a shared commitment to enriching our students&apos; understanding of
             literary works.
             <br />
             <br />
             Our online school website is presently undergoing development and is
             scheduled for an official launch around Christmas 2023. In the
             meantime, we have already begun offering a variety of classes to
-            eager students from across the globe. Below, you'll find our current
+            eager students from across the globe. Below, you&apos;ll find our current
             course offerings.
           </p>
         </div>
@@ -65,7 +65,7 @@ export default function Home() {
         <p className="text-3xl">{content.remark}</p>
         <p className="">
           {content.contact}
-          <Link href="mailto:alexande@uwtwriting.com" className="text-blue-500">
+          <Link href="mailto:alexander@uwtwriting.com" className="text-blue-500">
             {content.mail}
           </Link>
         </p>
