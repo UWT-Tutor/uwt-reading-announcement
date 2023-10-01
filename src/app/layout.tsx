@@ -19,7 +19,7 @@ export default function RootLayout({
     <html lang="en">
       <body className={inter.className}>
         <Nav />
-      <div className="pt-[5rem] bg-background">{children}</div>
+        <div className="pt-[5rem] bg-background">{children}</div>
       </body>
     </html>
   );
