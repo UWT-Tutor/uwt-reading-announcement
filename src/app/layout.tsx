@@ -11,14 +11,14 @@ export const metadata = {
     default: 'UWT - Your Most Trusted Writing Tutors',
   },
   description: "For College and Graduate School Application Essays.",
-  url: "https://uwt-website.vercel.app/",
-  siteName: "UWT Website",
-  canonical: "https://uwt-website.vercel.app/",
+  url: "https://uwt-reading.vercel.app/",
+  siteName: "UWT Reading",
+  canonical: "https://uwt-reading.vercel.app/",
   openGraph: {
     title: "UWT - Your Most Trusted Writing Tutors",
     description: "For College and Graduate School Application Essays.",
-    url: "https://uwt-website.vercel.app/",
-    siteName: "UWT Website",
+    url: "https://uwt-reading.vercel.app/",
+    siteName: "UWT Reading",
     images: [
       {
         url: "/images/ogp.png",
