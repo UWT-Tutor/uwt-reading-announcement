@@ -64,7 +64,7 @@ export default function Home() {
       <div className="flex flex-col gap-4 items-center py-20">
         <p className="text-3xl">{content.remark}</p>
         <p className="">
-          {content.contact}
+          {content.contact} 
           <Link href="mailto:alexander@uwtwriting.com" className="text-blue-500">
             {content.mail}
           </Link>
